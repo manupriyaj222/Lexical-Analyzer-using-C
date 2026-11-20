@@ -1,0 +1,6 @@
+*.out
+*.exe
+*.o
+lexical_analyzer
+.DS_Store
+Thumbs.db
